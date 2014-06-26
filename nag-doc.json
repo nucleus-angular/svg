@@ -1,0 +1,22 @@
+{
+  "name": "Nucleus Angular Iconic",
+  "description": "Nucleus Angular Iconic",
+  "version": "0.5.0",
+  "options": {
+    "outdir": "./docs",
+    "jsonDir": "json",
+    "webDir": "web",
+    "docApp": {
+      "url": "https://github.com/nucleus-angular/nag-doc-app/archive/master.zip",
+      "zipPath": "/nag-doc-app-master"
+    },
+    "paths": [
+      "."
+    ],
+    "ignorePaths": [
+      "docs",
+      "dalek",
+      "dalek-web"
+    ]
+  }
+}
