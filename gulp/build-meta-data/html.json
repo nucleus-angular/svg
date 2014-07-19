@@ -1,0 +1,44 @@
+{
+  "workingFiles": {
+    "dalek-web/index-ut.html": {
+      "fileHash": "8b1ebcbaa0bcf74b8b85b00b27164b5a22e857b1"
+    },
+    "dalek-web/index.html": {
+      "fileHash": "aaa628939ea35abf6694d67f4c43138063017882"
+    },
+    "dalek-web/components/jshashes/examples/client/base64.html": {
+      "fileHash": "7cfc4b58a240a9671b8e35f99ea22b7ab99d8d19"
+    },
+    "dalek-web/components/jshashes/examples/client/benchmark.html": {
+      "fileHash": "8f235a46fe1c27c6ccb8bbe6b4a3c243d233ff56"
+    },
+    "dalek-web/components/jshashes/examples/client/custom.html": {
+      "fileHash": "f76af0635ba7fc6997edaa70b1126079b46a13c0"
+    },
+    "dalek-web/components/jshashes/examples/client/hexadecimal.html": {
+      "fileHash": "1741463c1c35c2c86fd7557518e632b98a2d40b7"
+    },
+    "dalek-web/components/jshashes/examples/client/hmac.html": {
+      "fileHash": "420938c184e505d98da6dc23de8acc7fcd05eb9c"
+    },
+    "dalek-web/components/jshashes/examples/client/others.html": {
+      "fileHash": "5fa63bae2eb9b7083cc8bf553d151308a2b3ddf0"
+    },
+    "dalek-web/components/jshashes/examples/client/uppercase.html": {
+      "fileHash": "265ea0350ff65f7b14e26d467e128305475fbc66"
+    },
+    "dalek-web/app/components/core/assets/templates/footer.html": {
+      "fileHash": "14c45344f78ebcee33d22dddafac9ab5b6447772"
+    },
+    "dalek-web/app/components/core/assets/templates/header.html": {
+      "fileHash": "a21f3c3e6b1154b90fbae9201241b73cfae5d00b"
+    },
+    "dalek-web/app/components/core/assets/templates/module-wrapper.html": {
+      "fileHash": "4d6e976842be96713c64de27f84bb9fa54faf0a5"
+    },
+    "dalek-web/app/components/home/assets/templates/home.html": {
+      "fileHash": "15a9289dbeb75f7ee009fe63e4a98b23a834879a"
+    }
+  },
+  "buildFiles": {}
+}

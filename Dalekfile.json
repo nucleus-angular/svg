@@ -1,0 +1,9 @@
+{
+    "browser": [
+        "chrome"
+    ],
+    "logLevel": 1,
+    "tests": [
+        "dalek/*.spec.js"
+    ]
+}

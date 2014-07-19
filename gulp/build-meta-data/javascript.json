@@ -1,0 +1,68 @@
+{
+  "workingFiles": {
+    "dalek-web/components/angular-mockable-http-provider/mockable-http-provider.js": {
+      "fileHash": "65ac2013e631c2c1e924122f063398c9558d9de3"
+    },
+    "dalek-web/app/application.js": {
+      "fileHash": "21a4f2beb2d7712ac9c8133c3489bb04b6dff8db"
+    },
+    "dalek-web/app/components/core/module.js": {
+      "fileHash": "b8b7adca9f4cf17f94f56905f76cbf8d421255ff"
+    },
+    "dalek-web/app/components/core/http-interceptors-config.js": {
+      "fileHash": "85a8accf17d24d80dfe6ea56c64b1fea85a93ca0"
+    },
+    "dalek-web/app/components/home/module.js": {
+      "fileHash": "3df5cd10cbcfa81a3be42696fef4f116d5a0649b"
+    },
+    "dalek-web/app/components/home/home-controller.js": {
+      "fileHash": "d9e50ef8f23384fe68ad865a1d6a69fb9cb52718"
+    },
+    "dalek-web/components/jshashes/hashes.js": {
+      "fileHash": "f20145b631c904d5a35410bb0f0bbd38eae71f7b"
+    },
+    "dalek-web/components/moment/moment.js": {
+      "fileHash": "81183ce4749d3c03bb39dc505d8971ac9fa49aad"
+    },
+    "dalek-web/components/jquery/dist/jquery.js": {
+      "fileHash": "0fe3e567e0776226ee98326ba8cae7680683c112"
+    },
+    "dalek-web/components/svg-injector/dist/svg-injector.min.js": {
+      "fileHash": "ca2f2fdaf43a355d8d3c6cdf0e5e9d2ce714395e"
+    },
+    "dalek-web/components/angular/angular.js": {
+      "fileHash": "843ba7ca55bd35ff5c3c9e767bc5e254a82afe3c"
+    },
+    "dalek-web/components/angular-ui-router/release/angular-ui-router.js": {
+      "fileHash": "65441c965f6c57678bf142509bd670c7f6d1c801"
+    },
+    "dalek-web/components/nucleus-angular-svg/module.js": {
+      "fileHash": "398f0d0355968a1dfdf07872dbdfb11b74d89c5f"
+    },
+    "dalek-web/components/nucleus-angular-svg/svg-directive.js": {
+      "fileHash": "900fe75abf483a6c32b12314eed9c8af4b704daa"
+    }
+  },
+  "buildFiles": {
+    "dalek-web/app/build/ui-testing.js": [
+      "dalek-web/components/angular-mockable-http-provider/mockable-http-provider.js"
+    ],
+    "dalek-web/app/build/application.js": [
+      "dalek-web/app/application.js",
+      "dalek-web/app/components/core/module.js",
+      "dalek-web/app/components/core/http-interceptors-config.js",
+      "dalek-web/app/components/home/module.js",
+      "dalek-web/app/components/home/home-controller.js"
+    ],
+    "dalek-web/app/build/libraries.js": [
+      "dalek-web/components/jshashes/hashes.js",
+      "dalek-web/components/moment/moment.js",
+      "dalek-web/components/jquery/dist/jquery.js",
+      "dalek-web/components/svg-injector/dist/svg-injector.min.js",
+      "dalek-web/components/angular/angular.js",
+      "dalek-web/components/angular-ui-router/release/angular-ui-router.js",
+      "dalek-web/components/nucleus-angular-svg/module.js",
+      "dalek-web/components/nucleus-angular-svg/svg-directive.js"
+    ]
+  }
+}
