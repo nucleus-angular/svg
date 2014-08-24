@@ -2,7 +2,7 @@ var BasePageObject = require('../base-page-object');
 
 var HomePage = BasePageObject.extend({
   initialize: function(test, urlAppend) {
-    this.baseUrl = '/home?uiTestingMode=true';
+    this.baseUrl = 'http://localhost:3000/home?uiTestingMode=true';
     this.selectors = {
       svg: 'svg',
       img: 'img'
@@ -17,7 +17,7 @@ var HomePage = BasePageObject.extend({
   },
 
   hasSvg: function() {
-    this.test.assert.attr(this.getSelector('svg'), 'data-src').to.contain('app/svg/test.svg');
+    this.test.assert.attr(this.getSelector('svg'), 'class').to.contain('injected-svg');
     this.test.assert.doesntExist(this.getSelector('img'));
   }
 });
